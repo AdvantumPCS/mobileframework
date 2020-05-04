@@ -1,0 +1,39 @@
+{
+    "name": "mobileframework",
+    "displayName": "MOBILEFRAMEWORK",
+    "expo": {
+        "sdkVersion": "35.0.0",
+        "slug": "Mobile-Framework-Seed",
+        "scheme": "mobileframework",
+        "name": "MobileFramework",
+        "icon": "./assets/advantum.png",
+        "version": "1.0.0",
+        "loading": {
+            "hideExponentText": false,
+            "icon": "./assets/loading.png"
+        },
+        "ios": {
+            "bundleIdentifier": "com.advantumpcs.mobileframework"
+        },
+        "android": {
+            "package": "com.advantumpcs.mobileframework"
+        },
+        "orientation": "portrait",
+        "primaryColor": "#3700B3",
+        "packagerOpts": {
+            "assetExts": [
+                "ttf"
+            ]
+        },
+        "androidStatusBarColor": "#6299EE",
+        "androidStatusBar": {
+            "barStyle": "light-content",
+            "backgroundColor": "#03DAC6"
+        },
+        "platforms": [
+            "android",
+            "ios"
+        ],
+        "description": ""
+    }
+}
