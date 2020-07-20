@@ -70,7 +70,7 @@
         "expo-font": "~7.0.0",
         "expo-location": "~7.0.0",
         "expo-permissions": "~7.0.0",
-        "lodash": "4.17.15",
+        "lodash": "4.17.19",
         "loose-envify": "^1.4.0",
         "native-base": "^2.12.1",
         "object-assign": "^4.1.1",
